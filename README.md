@@ -21,7 +21,7 @@ Our judges are going to pick the best qualifying projects based on the judging c
 
 # How to enter?
 
-Read the competition rules [here]() and open an [issue](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/issues/new/choose) on this repository.
+Read the competition rules [here](terms_and_conditions.md) and open an [issue](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/issues/new/choose) on this repository.
 
 # Entries
 
