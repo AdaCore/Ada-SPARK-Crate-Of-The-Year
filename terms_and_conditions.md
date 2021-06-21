@@ -40,7 +40,7 @@ Each Individual Participant’s and each Team’s “Submission” must be in En
  - Identification of which parts of the Crate are original and which parts, if any, are reusing content authored by third parties, such as pre-existing libraries.
  - Identification of which parts of the Crate, if any, have been submitted to a previous Ada/SPARK Crate Of The Year Competition or Make with Ada competition.
  - Code written in the Ada or SPARK languages. It can optionally use components written in other languages (such as third-party libraries), but only the original part of the Crate that uses Ada or SPARK will be evaluated by the Judges.
-Initial Submissions may be made by Participants between XX:XX CEST on X X Xth 2021 and 23:59 CEST on Friday December 21st 2021. Submissions may be amended, corrected, or improved at any time during this period.
+Initial Submissions may be made by Participants between XX:XX CEST on X X Xth 2021 and 23:59 CEST on Friday December 31st 2021. Submissions may be amended, corrected, or improved at any time during this period.
 
 ## How to enter
 ### Step 1: Get your Crate accepted to the Alire community index.
