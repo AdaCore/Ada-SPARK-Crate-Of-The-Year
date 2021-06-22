@@ -1,3 +1,4 @@
+![](banner.jpg)
 # Ada/SPARK Crate Of The Year Award
 
 ## The challenge
