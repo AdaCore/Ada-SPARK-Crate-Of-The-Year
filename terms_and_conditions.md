@@ -27,7 +27,7 @@ receive any prize awarded to the Team and be responsible for sharing it among th
 
 A "Crate" is a software project, library or executable, written using the Ada and/or SPARK programming languages and contributed to the [Alire ecosystem](https://alire.ada.dev).
 
-A "Submission" is a [GitHub "issue"](https://guides.github.com/features/issues/)) that describes and promotes the Crate. The goal of the Submission is to explain to the Judges why the Crate deserves to receive one of the awards of the Competition. The expected format and content of a Submission is described below.
+A "Submission" is a [GitHub "issue"](https://guides.github.com/features/issues/) that describes and promotes the Crate. The goal of the Submission is to explain to the Judges why the Crate deserves to receive one of the awards of the Competition. The expected format and content of a Submission is described below.
 
 ### Requirements
 
