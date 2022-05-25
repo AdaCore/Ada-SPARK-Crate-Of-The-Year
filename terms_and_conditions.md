@@ -92,7 +92,7 @@ The winners will be announced in January 2022 on [blog.adacore.com](http://makew
 
 ## Payment or Delivery of the Prizes
 
-The winner (or Team Lead) of each Crate Of The Year Prize will be asked to provide banking information (IBAN of SWIFT) and whether they want to be paid in EUR or USD. Payment will be made by the Organizer, in the chosen currency, within 45 days of receipt of such information. The Participant receiving the payment shall be responsible for any fee charged by his bank for such transfer and any fees for currency conversion. If the Participant requests to be paid in EUR, they acknowledge that the original USD amount of the prize will be converted to EUR at the then-current exchange rate. The Team Leads are responsible for distributing the Prize among the members of their Team.
+The winner (or Team Lead) of each Crate Of The Year Prize will be asked to provide banking information (IBAN or SWIFT) and whether they want to be paid in EUR or USD. Payment will be made by the Organizer, in the chosen currency, within 45 days of receipt of such information. The Participant receiving the payment shall be responsible for any fee charged by their bank for such transfer and any fees for currency conversion. If the Participant requests to be paid in EUR, they acknowledge that the original USD amount of the prize will be converted to EUR at the then-current exchange rate. The Team Leads are responsible for distributing the Prize among the members of their Team.
 
 ## Miscellaneous clauses
 ### Organizer
@@ -111,23 +111,25 @@ Participants grant to the Organizer and each of the Judges the worldwide, non-ex
 Participants also grant to the Organizer and each of the Judges the worldwide, non-exclusive right to reproduce, transfer, run, analyse and test by any means, any software or documentation that is part of their Submission and Crate for the purpose of evaluating their Crate and for the duration reasonably needed for those purposes.
 
 By entering the Competition, each Participant, including Individual Participants and all Participants in a Team, represents and warrants that:
- - They have the right to make their Submission and Crate available under the above license grant. In particular, when the Participants are employed by, working for hire for, or have received significant support from a third party, they represent and warrant that: 
-  - Such third party has no Intellectual Property rights in their Submission, Crate, or any part thereof;
-  - or they have obtained from such third party the necessary rights to sublicense their Submission and Crate to the Organizer and Judges and that such third party has indemnified the Organizer and Judges against any claim of Intellectual Property Rights infringement
- - they meet the eligibility conditions.
- - they agree to the collection of their Personal Data according to AdaCore privacy policy for the purpose of organizing the Competition .
- - they agree to the use of their names in relation to their Submission and the Competition by the Organizer or the Sponsors on any commercial sites such as http://www.adacore.com/ or the Organizer’s blog.
- - their Submission does not contain any defamatory, obscene, illegal or otherwise inappropriate material.
- - their Submission is made in compliance with any applicable “Export-Control Regulations”, in particular the Export Administration Regulations (15 CFR Part 730-744) of the United States and the regulation of the Council n°428/2009 in the European Union.
- - they will indemnify and hold the Organizer and Judges harmless against any claim or action that their Submission, Crate, or any part thereof, infringes the Intellectual Property Rights of a third party or contains defamatory, obscene, illegal or otherwise inappropriate material, or is made in violation of Export Control Regulations. In particular, Participants will indemnify AdaCore against judgments, awards, damages and costs, including court and arbitration costs and attorney fees, ultimately awarded on such claims. For the purpose of this indemnification, Team Participants will be considered jointly and severally.
- - they waive their right to sue the Organizer or the Judges on any ground connected to the award or distribution of the Prizes.
- - they have read, understood, and agree fully with these rules.
- - neither they, nor the team they belong to, received any support from a for-profit entity other than a university for the production of their Crate, other than:
-  - the support provided freely by the Sponsors;
-  - the use of resources such as computers or network connections normally provided by that entity and for which personal usage is permitted by that entity or the use is of a de minimis nature.
+
+ - They have the right to make their Submission and Crate available under the above license grant. In particular, when the Participants are employed by, working for hire for, or have received significant support from a third party, they represent and warrant that:
+ - Such third party has no Intellectual Property rights in their Submission, Crate, or any part thereof; or
+ - they have obtained from such third party the necessary rights to sublicense their Submission and Crate to the Organizer and Judges and that such third party has indemnified the Organizer and Judges against any claim of Intellectual Property Rights infringement;
+ - they meet the eligibility conditions;
+ - they agree to the collection of their Personal Data according to AdaCore's [Privacy Policy](https://www.adacore.com/company/privacy) for the purpose of organizing the Competition;
+ - they agree to the use of their names by the Organizer or the Sponsors in relation to their Submission and the Competition on any commercial sites such as [www.adacore.com](http://www.adacore.com/) or the Organizer’s blog;
+ - their Submission does not contain any defamatory, obscene, illegal or otherwise inappropriate material;
+ - their Submission is made in compliance with any applicable “Export-Control Regulations”, in particular the Export Administration Regulations (15 CFR Part 730-744) of the United States and the regulation of the Council n°428/2009 in the European Union;
+ - they will indemnify and hold the Organizer, and Judges harmless against any claim or action that their Submission, Crate, or any part thereof, infringes the Intellectual Property Rights of a third party or contains defamatory, obscene, illegal or otherwise inappropriate material, or is made in violation of Export Control Regulations. In particular, Participants will indemnify AdaCore against judgments, awards, damages and costs, including court and arbitration costs and attorney fees, ultimately awarded on such claims. For the purpose of this indemnification, Team Participants will be considered jointly and severally;
+ - they waive their right to sue the Organizer, or the Judges on any ground connected to the award or distribution of the Prizes;
+ - they have read, understood, and agree fully with these rules;
+    neither they, nor the team they belong to, received any support from a for-profit entity other than a university for the production of their Crate, other than:
+ - the support provided freely by the Sponsors;
+ - the use of resources such as computers or network connections normally provided by that entity and for which personal usage is permitted by that entity or the use is of a de minimis nature.
 
 In addition to the foregoing, Team Leads represent and warrant that:
- - they will indemnify and keep the Organizer and Judges harmless against any claim or action in relation to the distribution or delivery of the Prizes, or lack thereof, between the Participants in their Team, provided that the Organizer paid or delivered such Prizes to them.
+
+ - They will indemnify and hold the Organizer, and Judges harmless against any claim or action in relation to the distribution or delivery of the Prizes, or lack thereof, between the Participants in their Team, provided that the Organizer paid or delivered such Prizes to them.
 
 ### Force Majeure
 
@@ -145,4 +147,4 @@ The Participants, Judges, Sponsors and Organizers expressly agree that any litig
 
 ### Changes to the Competition 
 
-During the Competition, the Organizer shall have the right to amend these rules from time to time, in particular to improve their clarity or address points that were not addressed before. The Organizer also retains the right to change the list or number of Judges. The latest version of these rules and list of Judgeswill always be available on https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year. By making their Submission, Participants agree to be bound by any such subsequent changes.
+During the Competition, the Organizer shall have the right to amend these rules from time to time, in particular to improve their clarity or address points that were not addressed before. The Organizer also retains the right to change the list or number of Judges. The latest version of these rules and list of Judges will always be available on https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year. By making their Submission, Participants agree to be bound by any such subsequent changes.
