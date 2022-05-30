@@ -133,7 +133,7 @@ In addition to the foregoing, Team Leads represent and warrant that:
 
 ### Force Majeure
 
-Neither party is in breach of these rules, nor liable in any way whatsoever, for any failure to perform, or any delay in performing its obligations hereunder to the extent that such failure or delay results from a situation of force majeure. In particular, the Competition may be canceled at any point with no advance notice in such a situation.
+None of the parties will be in breach of these rules, nor liable in any way whatsoever, for any failure to perform, or any delay in performing its obligations hereunder to the extent that such failure or delay results from a situation of force majeure. In particular, the Competition may be canceled at any point with no advance notice in such a situation.
 
 ### Severability
 
