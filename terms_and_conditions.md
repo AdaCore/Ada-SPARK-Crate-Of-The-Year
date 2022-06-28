@@ -40,7 +40,7 @@ Each Individual Participant’s and each Team’s “Submission” must be in En
  - Identification of which parts of the Crate are original and which parts, if any, are reusing content authored by third parties, such as pre-existing libraries.
  - Identification of which parts of the Crate, if any, have been submitted to a previous Ada/SPARK Crate Of The Year Competition or Make with Ada competition.
  - Code written in the Ada or SPARK languages. It can optionally use components written in other languages (such as third-party libraries), but only the original part of the Crate that uses Ada or SPARK will be evaluated by the Judges.
-Initial Submissions may be made by Participants between 6:00 CEST on Monday June 28th 2021 and 23:59 CEST on Friday December 31st 2021. Submissions may be amended, corrected, or improved at any time during this period.
+Initial Submissions may be made by Participants between 6:00 CEST on Tuesday June 28th 2022 and 23:59 CEST on Friday December 31st 2022. Submissions may be amended, corrected, or improved at any time during this period.
 
 ## How to enter
 ### Step 1: Get your Crate accepted to the Alire community index.
@@ -52,7 +52,7 @@ Initial Submissions may be made by Participants between 6:00 CEST on Monday June
 
  - The Participant Team Lead must open the “issue”.
  - The GitHub account used to open the “issue” must be one of the accounts in the “maintainers-logins” list of the crate published in the Alire community index.
- - The title of the “issue” must have the following format `[2021][<crate_name>] <crate_description>`, where:
+ - The title of the “issue” must have the following format `[2022][<crate_name>] <crate_description>`, where:
 `<crate_name>` is the name of the crate as published in the Alire community index
 `<crate_description>` is a less than 60-character description of the Crate
  - The body of the “issue” should contain the Submission (see above).
@@ -88,7 +88,7 @@ The following “Prizes” will be awarded as part of the Competition:
 Each Submission will first be qualified or disqualified based on the competition eligibility rules. The Judges will then select the winners of the competition from the pool of qualified submissions and award the “Ada Crate Of The Year Prize”, “SPARK Crate Of The Year Prize” and “Embedded Crate Of The Year Prize”.
 
 Decisions of the Judges are final and binding upon all Participants and the Organizer.
-The winners will be announced in January 2022 on [blog.adacore.com](http://makewithada.org) or possibly later depending on the number of entries.
+The winners will be announced in January 2023 on [blog.adacore.com](http://makewithada.org) or possibly later depending on the number of entries.
 
 ## Payment or Delivery of the Prizes
 
@@ -99,7 +99,7 @@ The winner (or Team Lead) of each Crate Of The Year Prize will be asked to provi
 
 The Organizer reserves the right to:
  - immediately disqualify from the Competition and remove the Submission of any Participant or Team containing material that may be deemed by the Organizer, at their sole judgement, to be defamatory, obscene, illegal, or otherwise inappropriate.
- - terminate the Competition without awarding any of the Prizes if there are fewer than six Submissions made by 23:59 CEST on Friday December 31st 2021, in which case the Organizer will inform all registered Participants.
+ - terminate the Competition without awarding any of the Prizes if there are fewer than six Submissions made by 23:59 CEST on Friday December 31st 2022, in which case the Organizer will inform all registered Participants.
 The Organizer will employ reasonable efforts to keep the [competition page](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year) up and running at all times, but reserves the right to make it temporarily unavailable for security or maintenance purposes with no advance notice.
 
 ### Participants
