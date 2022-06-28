@@ -1,8 +1,8 @@
 ---
-name: Crate Of The Year 2021
-about: "[2021][<crate_name>] <crate description>"
-title: "[2021][<crate_name>] <crate description>"
-labels: COTY2021
+name: Crate Of The Year 2022
+about: "[2022][<crate_name>] <crate description>"
+title: "[2022][<crate_name>] <crate description>"
+labels: COTY2022
 assignees: ''
 
 ---
