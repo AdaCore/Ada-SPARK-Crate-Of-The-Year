@@ -26,4 +26,4 @@ Read the competition rules [here](terms_and_conditions.md) and open an [issue](h
 
 # Entries
 
-You can find the list of entries [here](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/labels/COTY2021).
+You can find the list of entries [here](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/labels/COTY2022).
