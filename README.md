@@ -1,11 +1,10 @@
-![](banner.jpg)
 # Ada/SPARK Crate Of The Year Award
 
 ## The challenge
 
 We’re calling on developers across the globe to grow the ecosystem of [Alire](https://alire.ada.dev) Ada and SPARK software and are offering $6,000 in total prizes. Why? Well, the Ada programming language was designed from its inception to be used in applications where safety and security are of the utmost importance and with the increased need for trustworthy software, we want to encourage the use of Ada/SPARK.
 
-We want you to demonstrate your inventiveness and build safe, secure and reliable software that matters.
+We invite you to demonstrate your ingenuity through safe, secure and reliable software that matters, and we’re here to celebrate and reward the contributors who make this ecosystem exceptional.
 
 ## The Technology
 
@@ -18,12 +17,6 @@ We are giving away thousands of dollars in prizes to the best Alire crate in 3 c
  - $2,000 for the SPARK Crate Of The Year
  - $2,000 for the Embedded Crate Of The Year
 
-Our judges are going to pick the best qualifying projects based on the judging criteria outlined in the rules section.
-
 # How to enter?
 
-Read the competition rules [here](terms_and_conditions.md) and open an [issue](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/issues/new/choose) on this repository.
-
-# Entries
-
-You can find the list of entries [here](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/labels/COTY2022).
+We will consider any crate published in the Alire community index as a potential candidate for the awards.
